@@ -1,4 +1,4 @@
-<p2>Hi there, I am Daniel (Shaocong Xu).</p2>
+<p2>Hi there, I am Shaocong (Daniel) Xu.</p2>
 - 👨🏼‍💻 I am a second year **master student** at Xiamen University (XMU)
 - 🌱 I’m research intern at TsingHua University (THU)
 - ⚡  I am actively looking for Ph.D in 2024 Fall!
