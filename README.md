@@ -1,8 +1,8 @@
 <p2>Hi there, I am Shaocong (Daniel) Xu.</p2>
 - 👨🏼‍💻 I am a second year **master student** at Xiamen University (XMU)
-- 🌱 I’m research intern at TsingHua University (THU)
-- ⚡  I am actively looking for Ph.D in 2024 Fall!
+- 🌱 I’m a visiting student at TsingHua University (THU)
 - 🔭 I’m working on 3D perception and 3D language-guided perception.
+- - ⚡  I am actively looking for Ph.D in 2024 Fall!
 - 💬 My [homepage](https://daniellli.github.io/)
 - 📫 How to reach me: xushaocong@stu.xmu.edu.cn
 <!--
