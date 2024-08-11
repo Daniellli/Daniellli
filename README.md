@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/guochengqian">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=guochengqian&show_icons=true&theme=default&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniellli&show_icons=true&theme=default&hide=contribs,issues" />
 
   </a>
   
