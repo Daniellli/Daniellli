@@ -5,9 +5,7 @@
 - - ⚡  I am actively looking for Ph.D in 2024 Fall!
 - 💬 My [homepage](https://daniellli.github.io/)
 - 📫 How to reach me: xushaocong@stu.xmu.edu.cn
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Daniellli&style=for-the-badge">
-</a>
+
 <!--
 **guochengqian/guochengqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,3 +37,10 @@ Here are some ideas to get you started:
 -->
 
 [![Shaocong (Daniel) Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniellli)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=Daniellli&style=for-the-badge">
+</a>
+
